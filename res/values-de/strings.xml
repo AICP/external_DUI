@@ -62,7 +62,7 @@
   <string name="label_smartbar_remove">Entfernen</string>
   <string name="label_smartbar_cancel">Abbrechen</string>
   <string name="label_smartbar_finish">Abschließen</string>
-  <string name="label_smartbar_single_tap">Einfaches tippen</string>
+  <string name="label_smartbar_single_tap">Einmal tippen</string>
   <string name="label_smartbar_double_tap">Doppelt tippen</string>
   <string name="label_smartbar_long_press">Lange drücken</string>
   <string name="label_smartbar_icon_pack">Symbolpaket</string>

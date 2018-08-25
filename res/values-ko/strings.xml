@@ -17,7 +17,24 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_screenshot">스크린샷</string>
+  <string name="label_action_region_screenshot">부분 스크린샷</string>
+  <string name="label_action_expanded_desktop">확장 데스크탑</string>
+  <string name="label_action_force_close_app">앱 강제종료</string>
+  <string name="label_action_google_now_on_tap">Google 어시스턴트</string>
+  <string name="label_action_hotspot">핫스팟</string>
+  <string name="label_action_last_app">마지막으로 사용한 앱</string>
+  <string name="label_action_ime_switcher">IME 체인저</string>
+  <string name="label_action_ime_down">입력 커서를 아래로</string>
+  <string name="label_action_ime_left">입력 커서를 왼쪽으로</string>
+  <string name="label_action_ime_right">입력 방법 커서를 오른쪽으로 이동</string>
+  <string name="label_action_ime_up">입력 커서를 위로</string>
+  <string name="label_action_editing_smartbar">스마트바 편집기</string>
+  <string name="label_action_one_handed_mode_left">한손모드(왼쪽)</string>
+  <string name="label_action_one_handed_mode_right">한손모드(오른쪽)</string>
   <!-- Smartbar -->
+  <string name="label_smartbar_double_tap">더블탭</string>
+  <string name="label_smartbar_icon_reset">재설정</string>
   <!-- App killed message -->
   <!-- Pulse and media arrows blacklist -->
 </resources>

@@ -17,7 +17,24 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_settings_panel">Hurtiginnstillingspanel</string>
+  <string name="label_action_notification_panel">Meldingspanel</string>
+  <string name="label_action_force_close_app">Tving app avslutning</string>
+  <string name="label_action_voice_search">Talesøk</string>
+  <string name="label_action_in_app_search">Søk i app</string>
+  <string name="label_action_bluetooth">Blåtann</string>
+  <string name="label_action_wifi">WiFi</string>
+  <string name="label_action_hotspot">Hotspot</string>
+  <string name="label_action_ime_switcher">Endre innskrivningsmetode</string>
+  <string name="label_action_editing_smartbar">SmartBar innstillimg</string>
+  <string name="label_action_one_handed_mode_left">Enhåndsmodus (venstre)</string>
+  <string name="label_action_one_handed_mode_right">Enhåndsmodus (høyre)</string>
+  <string name="label_action_assistant_sound_search">Google lydsøk</string>
   <!-- Smartbar -->
+  <string name="smartbar_editor_toast_starting">Starter navigasjonsredigering</string>
+  <string name="smartbar_editor_toast_stopping">Avslutter navigasjonsredigering</string>
+  <string name="smartbar_editor_toast_unavailable">Navigasjonsredigering utilgjenglig</string>
   <!-- App killed message -->
+  <string name="app_killed_message">%s tvangsavsluttet</string>
   <!-- Pulse and media arrows blacklist -->
 </resources>

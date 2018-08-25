@@ -17,6 +17,8 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_wifi">WiFi</string>
+  <string name="label_action_hotspot">Hotspot</string>
   <!-- Smartbar -->
   <!-- App killed message -->
   <!-- Pulse and media arrows blacklist -->

@@ -17,23 +17,62 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_no_action">Ingen handling</string>
   <string name="label_action_settings_panel">Hurtiginnstillingspanel</string>
   <string name="label_action_notification_panel">Meldingspanel</string>
+  <string name="label_action_screenshot">Skjermdump</string>
+  <string name="label_action_region_screenshot">Delvis skjermdump</string>
+  <string name="label_action_screenrecord">Skjermopptak</string>
+  <string name="label_action_expanded_desktop">Utvidet skrivebord</string>
+  <string name="label_action_screen_off">Slå av skjerm</string>
   <string name="label_action_force_close_app">Tving app avslutning</string>
+  <string name="label_action_search_assistant">Søkeassistent</string>
+  <string name="label_action_google_now_on_tap">Google assistent</string>
   <string name="label_action_voice_search">Talesøk</string>
   <string name="label_action_in_app_search">Søk i app</string>
+  <string name="label_action_flashlight">Lommelykt</string>
   <string name="label_action_bluetooth">Blåtann</string>
   <string name="label_action_wifi">WiFi</string>
   <string name="label_action_hotspot">Hotspot</string>
+  <string name="label_action_last_app">Siste program</string>
+  <string name="label_action_overview">Sist brukt</string>
+  <string name="label_action_power_menu">Strøm-meny</string>
+  <string name="label_action_menu">Meny</string>
+  <string name="label_action_back">Tilbake</string>
+  <string name="label_action_home">Hjem</string>
   <string name="label_action_ime_switcher">Endre innskrivningsmetode</string>
+  <string name="label_action_stop_screenpinning">Avslutt skjermfesting</string>
+  <string name="label_action_ime_down">Inndatametode pil ned</string>
+  <string name="label_action_ime_left">Inndatametode pil venstre</string>
+  <string name="label_action_ime_right">Inndatametode pil høyre</string>
+  <string name="label_action_ime_up">Inndatametode pil opp</string>
+  <string name="label_action_volume_panel">Volumpanel</string>
+  <string name="label_action_clear_notifications">Fjern varslinger</string>
   <string name="label_action_editing_smartbar">SmartBar innstillimg</string>
+  <string name="label_action_split_screen">Delt skjerm</string>
   <string name="label_action_one_handed_mode_left">Enhåndsmodus (venstre)</string>
   <string name="label_action_one_handed_mode_right">Enhåndsmodus (høyre)</string>
+  <string name="label_action_media_left">Forrige spor</string>
+  <string name="label_action_media_right">Neste spor</string>
   <string name="label_action_assistant_sound_search">Google lydsøk</string>
   <!-- Smartbar -->
+  <string name="label_smartbar_actions">Handlinger</string>
+  <string name="label_smartbar_icon">Symbol</string>
+  <string name="label_smartbar_add">Legg til</string>
+  <string name="label_smartbar_remove">Fjern</string>
+  <string name="label_smartbar_cancel">Avbryt</string>
+  <string name="label_smartbar_finish">Fullfør</string>
+  <string name="label_smartbar_single_tap">Enkelttrykk</string>
+  <string name="label_smartbar_double_tap">Dobbeltrykk</string>
+  <string name="label_smartbar_long_press">Lang trykk</string>
+  <string name="label_smartbar_icon_pack">Symbolpakke</string>
+  <string name="label_smartbar_icon_gallery">Galleri</string>
+  <string name="label_smartbar_icon_color">Farge</string>
+  <string name="label_smartbar_icon_reset">Tilbakestill</string>
   <string name="smartbar_editor_toast_starting">Starter navigasjonsredigering</string>
   <string name="smartbar_editor_toast_stopping">Avslutter navigasjonsredigering</string>
   <string name="smartbar_editor_toast_unavailable">Navigasjonsredigering utilgjenglig</string>
+  <string name="edit_mode">Redigeringsmodus</string>
   <!-- App killed message -->
   <string name="app_killed_message">%s tvangsavsluttet</string>
   <!-- Pulse and media arrows blacklist -->

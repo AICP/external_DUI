@@ -17,7 +17,40 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Bindable action labels -->
+  <string name="label_action_no_action">Ніяких дій</string>
+  <string name="label_action_notification_panel">Панель сповіщень</string>
+  <string name="label_action_screenshot">Знімок екрану</string>
+  <string name="label_action_region_screenshot">Частковий знімок екрану</string>
+  <string name="label_action_screenrecord">Запис з екрану</string>
+  <string name="label_action_expanded_desktop">Розширений екран</string>
+  <string name="label_action_screen_off">Вимкнути екран</string>
+  <string name="label_action_force_close_app">Закрити примусово</string>
+  <string name="label_action_search_assistant">Пошуковий асистент</string>
+  <string name="label_action_google_now_on_tap">Google асистент</string>
+  <string name="label_action_voice_search">Голосовий пошук</string>
+  <string name="label_action_in_app_search">Пошук в програмі</string>
+  <string name="label_action_flashlight">Ліхтарик</string>
+  <string name="label_action_bluetooth">Bluetooth</string>
+  <string name="label_action_wifi">WiFi</string>
+  <string name="label_action_hotspot">Точка доступу</string>
+  <string name="label_action_last_app">Остання програма</string>
+  <string name="label_action_overview">Останні</string>
+  <string name="label_action_power_menu">Меню живлення</string>
+  <string name="label_action_menu">Меню</string>
+  <string name="label_action_back">Назад</string>
+  <string name="label_action_home">Головна</string>
   <!-- Smartbar -->
+  <string name="label_smartbar_icon">Іконка</string>
+  <string name="label_smartbar_add">Додати</string>
+  <string name="label_smartbar_remove">Видалити</string>
+  <string name="label_smartbar_cancel">Скасувати</string>
+  <string name="label_smartbar_finish">Закінчити</string>
+  <string name="label_smartbar_single_tap">Один дотик</string>
+  <string name="label_smartbar_double_tap">Подвійний дотик</string>
+  <string name="label_smartbar_long_press">Довге натискання</string>
+  <string name="label_smartbar_icon_pack">Набір значків</string>
+  <string name="label_smartbar_icon_gallery">Галерея</string>
+  <string name="label_smartbar_icon_color">Колір</string>
   <!-- App killed message -->
   <!-- Pulse and media arrows blacklist -->
 </resources>
